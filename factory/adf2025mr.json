@@ -1,0 +1,9 @@
+{
+	"name": "adf2025mr",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f8d4ce21-11ab-4528-8c69-7eb4872f29c9",
+		"tenantId": "947a6319-826e-425b-b730-9ad7750b02d8"
+	}
+}
